@@ -1,0 +1,1 @@
+Hi Alice! We can't achieve perfect secracy using the vigenere cipher unless the key is as long as the plaintext. Then the vigenere cipher becomes the same as the one-time-pad.
