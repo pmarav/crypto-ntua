@@ -1,4 +1,1 @@
-# Ntua Computational Cryptography
-
-# Lab 1
-- A Python implementation of the Vigenere cryptosystem.
+Assignments for the Computational Cryptography course at NTUA.
